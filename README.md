@@ -5,6 +5,9 @@ This is a non-commercial doujin game. Original Work is from 上海アリス幻�
 The Creators are from Wine_Sparrow_Group.
 制作者是酒雀小组。
 
+<b>To begin the game, go to "爱丽丝的冒险_Windows/" and double click "Alice_s_Adventure.exe".<br></b>
+<b>开始游戏的方法：进入“爱丽丝的冒险_Windows”文件夹，双击“Alice_s_Adventure.exe”来打开游戏。</b>
+
 Here are some images for previewing the game<br>
 这里是游戏中的一部分画面，来提供您游戏的大概内容<br>
 <img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/3.png" width="288" height="180" />
@@ -26,7 +29,7 @@ The Author haven't create an English version for now.<br>
 现在只有中文，作者没写英文的版本。<br>
 
 <b>About the save file for the game:</b><br>
-In the path, 爱丽丝的冒险_Windows/Alice_s_Adventure_Data/, there might be a file called "save1.txt".<br>
+In the path, "爱丽丝的冒险_Windows/Alice_s_Adventure_Data/", there might be a file called "save1.txt".<br>
 this is the save for you game, you can restart the entire game by moving it to other locations.<br>
 if no saving file is observed, the game will automatically create a new save file and start the game from beginning.<br>
 <b>关于存档：</b><br>

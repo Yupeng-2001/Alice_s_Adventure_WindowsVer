@@ -10,11 +10,11 @@ The Creators are from Wine_Sparrow_Group.<br>
 
 Here are some images for previewing the game<br>
 这里是游戏中的一部分画面，来提供您游戏的大概内容<br>
-<img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/3.png" width="288" height="180" />
-<img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/4.png" width="288" height="180" />
-<img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/1.png" width="288" height="180" />
-<img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/2.png" width="288" height="180" />
-<img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/5.png" width="288" height="180" />
+<img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/3.png" width="432" height="270" />
+<img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/4.png" width="432" height="270" />
+<img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/1.png" width="432" height="270" />
+<img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/2.png" width="432" height="270" />
+<img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/5.png" width="432" height="270" />
 
 Currently, this is only the Windows version.<br>
 Mac Version haven't been tested yet because I lack the device for testing.<br>

@@ -2,7 +2,7 @@
 This is a non-commercial doujin game. Original Work is from 上海アリス幻樂団(Team Shanghai Alice)<br>
 这是一部非商业性质的同人游戏，原作是上海爱丽丝幻乐团。<br>
 
-The Creators are from Wine_Sparrow_Group.
+The Creators are from Wine_Sparrow_Group.<br>
 制作者是酒雀小组。
 
 <b>To begin the game, go to "爱丽丝的冒险_Windows/" and double click "Alice_s_Adventure.exe".<br></b>

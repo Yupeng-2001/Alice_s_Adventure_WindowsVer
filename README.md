@@ -1,12 +1,12 @@
 # Alice_s_Adventure_WindowsVer
-This is a non-commercial doujin game. Original Work is from 上海アリス幻樂団(Team Shanghai Alice)
-这是一部非商业性质的同人游戏，原作是上海爱丽丝幻乐团。
+This is a non-commercial doujin game. Original Work is from 上海アリス幻樂団(Team Shanghai Alice)<br>
+这是一部非商业性质的同人游戏，原作是上海爱丽丝幻乐团。<br>
 
+The Creators are from Wine_Sparrow_Group.
+制作者是酒雀小组。
 
-制作者是
-
-Here are some images for previewing the game
-这里是游戏中的一部分画面，来提供您游戏的大概内容
+Here are some images for previewing the game<br>
+这里是游戏中的一部分画面，来提供您游戏的大概内容<br>
 <img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/3.png" width="288" height="180" />
 <img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/4.png" width="288" height="180" />
 <img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/1.png" width="288" height="180" />

@@ -11,12 +11,12 @@ Here are some images for previewing the game
 <img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/1.png" width="288" height="180" />
 <img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/5.png" width="288" height="180" />
 
-Currently, this is only the Windows version.
+Currently, this is only the Windows version.<br>
 Mac Version haven't been tested yet because I lack the device for testing.
 现在提供的仅仅是Window的版本，Mac版本因为没有测试暂时没有放出。
 
-<b>Notes/一些要注意的地方：</b>
-About the language:
+<b>Notes/一些要注意的地方：</b><br>
+About the language:<br>
 There are only Chinese version available.
 The Author haven't create an English version for now.
 关于语言：

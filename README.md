@@ -39,7 +39,7 @@ if no saving file is observed, the game will automatically create a new save fil
 
 <b>About bug：</b><br>
 if you encounter any bug, best way to solve it is to press "esc" and click "退出游戏"(which means exit game).<br>
-let the game restart itself. but hopefully, wish you would run into bugs in the first place.<br>
+let the game restart itself. But hopefully, wish you would not run into any bug in the first place.<br>
 <b>关于bug</b>：<br>
 如果遇到严重的bug，请按“ESC”并点击“退出游戏”<br>
 游戏重启后会重新加载场景和人物，也许能除掉一部分bug。不过还是但愿您别遇上任何bug。<br>

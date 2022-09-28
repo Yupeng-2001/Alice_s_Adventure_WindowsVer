@@ -10,3 +10,5 @@ Here are some images for previewing the game
 ![alt text](https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/5.png | width=100)
 
 ![](https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/5.png | width=100)
+
+<img src="https://github.com/Yupeng-2001/Alice_s_Adventure_WindowsVer/blob/main/preview_graphs/5.png" width="576" height="360" />
